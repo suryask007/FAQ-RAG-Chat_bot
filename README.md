@@ -6,11 +6,10 @@ A secure and intelligent **FAQ-based Retrieval-Augmented Generation (RAG) Chatbo
 
 ## ✨ Features
 
-- 🔐 **Admin Login**
+- 🔐 **Login**
 - 💬 **FAQ Chatbot** (RAG-based with LangChain + Groq)
 - 🧠 **Intent Detection & Escalation Handling**
 - 📊 **Real-time Analytics Dashboard**
-- 📁 **PDF/Document Ingestion** using FAISS Vector Store
 - 🗄️ **PostgreSQL** for Escalation Logging
 - ⚙️ **LangChain + HuggingFace + Groq Integration**
 
@@ -51,7 +50,6 @@ FAQ-Chat-Bot/
 - **Embedding Model:** HuggingFace
 - **LLM:** Groq (Mistral via LangChain)
 - **Database:** PostgreSQL (via Tortoise ORM)
-- **PDF Loader:** PyMuPDF (fitz)
 
 ---
 
