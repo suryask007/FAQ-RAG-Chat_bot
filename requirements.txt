@@ -1,0 +1,6 @@
+langchain==0.3.25
+langchain-groq==0.3.2
+langchain-huggingface==0.1.2
+streamlit==1.45.0
+matplotlib==3.10.3
+tortoise-orm==0.25.0
